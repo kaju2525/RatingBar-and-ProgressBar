@@ -70,6 +70,9 @@
                 android:layout_height="40dp"
                 android:minHeight="192dp"
                 android:maxHeight="192dp"
+                app:mrb_progressBackgroundTint="@color/p5"
+                app:mrb_progressTint="@color/p2"
+                app:mrb_secondaryProgressTint="@color/p2"
                 android:numStars="5"
                 android:rating="2.5"
                 android:stepSize="0.1" />
